@@ -157,4 +157,4 @@ Connect with Me
 
 
 * LinkedIn: 
-* GitHub: [Link]([url](https://github.com/satyammaddheshiya63-crypto/Sales-Project-SQL/upload/main) )
+* GitHub: [https://github.com/satyammaddheshiya63-crypto/Sales-Project-SQL/upload/main](https://github.com/satyammaddheshiya63-crypto/Sales-Project-SQL/upload/main)
